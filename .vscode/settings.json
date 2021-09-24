@@ -1,0 +1,18 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "src/ub01",
+        "src/ub03",
+        "src/ub04",
+        "src/ub05",
+        "src/ub06",
+        "src/ub07",
+        "src/ub08",
+        "src/ub08/a4",
+        "src/Altklausur"
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\TomKeppeler\\OneDrive - Hochschule Bonn-Rhein-Sieg\\2021 SS\\(Prog2) Programmierung 2\\Project\\lib\\org_junit_platform_junit-platform-console-standalone_1.6.0_junit-platform-cons.jar"
+    ]
+}
