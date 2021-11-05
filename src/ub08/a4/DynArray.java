@@ -53,7 +53,6 @@ public class DynArray<Typ> implements Iterable<Typ>{
     private void increaseArray() {
         if (this.capacity() == this.getSize()) {
             this.dynamisch = Arrays.copyOf(this.dynamisch, this.capacity() * 2);
-            Collections.list    
         }
     }
 
